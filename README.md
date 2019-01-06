@@ -1,6 +1,12 @@
-# flutter_test_drive
+# Flutter Codelab
 
-A new Flutter project.
+A Flutter project which
+- shows a list of English words from an **external library**
+- allows to favorite/unfavorite words using a heart icon
+- shows the use of **Navigator** and **Route**
+- has a second screen to show the favorite words
+
+<img src="screenshots/1.png" width=40%/> <img src="screenshots/2.png" width=40%/>
 
 ## Getting Started
 

@@ -61,7 +61,7 @@ class RandomWordsState extends State<RandomWords> {
                 title: const Text('Saved Suggestions'),
               ),
               body: new ListView(children: divided),
-            )
+            );
           }
       )
     );
